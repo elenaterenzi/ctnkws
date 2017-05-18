@@ -1,0 +1,2 @@
+# ctnkws
+cntk ws publishing
